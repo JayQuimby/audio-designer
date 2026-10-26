@@ -1,0 +1,6 @@
+PySide6-Essentials>=6.7
+ptts>=0.4.2
+pywhispercpp>=1.5.1
+numpy
+sounddevice
+httpx
